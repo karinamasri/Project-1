@@ -1,0 +1,35 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  font-family: 'century gothic', sans-serif;
+}
+
+.container-fluid div {
+  /*background-color: #333;*/
+  border-left: 1px solid white;
+  border-right: 1px solid white;
+}
+
+h1 {
+    
+    text-align:center;
+    color:#7379b7;
+    font-family:'century gothic'
+        
+}
+
+h2, h3, h4 {
+    
+    text-align:center;
+    color:black;
+    font-size:8px;
+    font-family:'century gothic'      
+}
+
+.nav > li > a {
+    
+    font-size: 8px;
+    color:#000000;
+    
+}
+
